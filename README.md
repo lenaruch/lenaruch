@@ -13,7 +13,7 @@
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lenaruch&style=flat-square&color=blue" alt=""/></p>
 
-### :man_technologist: About Me :
+### <p align="center">:man_technologist: About Me :</p>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 <!--
