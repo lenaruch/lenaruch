@@ -36,14 +36,11 @@
 
 ###
 
-<img align="right" height="140" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
 
 ###
 _____________________________
 💾 About me:
-
-I'm python developer:
-
 * 🐍 I have been interesting in python for 1 years
 * ⚡ On my free time have been learning data processing pipelines, tools and SQL/NoSQL databases
 * 🖥️ I truly love to study new tools and tricks in programming
