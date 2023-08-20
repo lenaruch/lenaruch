@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF5amMya3RxMXZnYW4xOG50eXp3MGswb2t4MWpyOTZkb3g5cDJpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
 </div>
-
 ### <p align="center">Hi there 👋 My name is Lenar</p>
 <div align="center" id="badges">
   <a href="your-linkedin-URL">
