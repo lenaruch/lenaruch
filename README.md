@@ -8,7 +8,7 @@
 </div>
 
 ###
-🛠  Languages and Tools :
+### 🛠  Languages and Tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -40,7 +40,7 @@
 
 ###
 _____________________________
-💾 About me:
+### 💾 About me:
 * 🐍 I have been interesting in python for 1 years
 * ⚡ On my free time have been learning data processing pipelines, tools and SQL/NoSQL databases
 * 🖥️ I truly love to study new tools and tricks in programming
