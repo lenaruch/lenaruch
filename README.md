@@ -2,6 +2,11 @@
 
 ###
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenaruch&show_icons=true&theme=radical&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/lenaruch/github-readme-stats)
+
+###
+
 <img align="right" height="115" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
 
 ###
