@@ -5,6 +5,7 @@
 ### <p align="center">Hi there 👋 My name is Lenar</p>
 <div align="center" id="badges">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
 </div>
 
 <!--
