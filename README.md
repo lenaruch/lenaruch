@@ -12,7 +12,6 @@
   </a>
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lenaruch&style=flat-square&color=blue" alt=""/></p>
-  <img src="https://komarev.com/ghpvc/?username=lenaruch&style=flat-square&color=blue" alt=""/>
 
 
 <!--
