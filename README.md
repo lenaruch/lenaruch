@@ -2,8 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF5amMya3RxMXZnYW4xOG50eXp3MGswb2t4MWpyOTZkb3g5cDJpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"/>
 </div>
 
-### <p align="center">Hi there 👋</p>
-### <p align="center">My name is Lenar</p>
+### <p align="center">Hi there 👋 My name is Lenar</p>
 
 <!--
 **lenaruch/lenaruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
