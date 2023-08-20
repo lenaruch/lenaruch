@@ -56,3 +56,10 @@ _____________________________
 ###
 
 ____
+<div align="center">
+  <h5>This repository contains projects that were implemented in the course of training in the direction of <em>"Python developer"</em> and <em>"Data Analyst"</em> in Geekbrains 🧠. During my studies, several interesting projects were implemented. Added the most liked ones to the repository</h5>
+</div>
+
+###
+Тут будет табличка с реализованными проектами
+###
