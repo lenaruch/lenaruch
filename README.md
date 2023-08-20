@@ -1,4 +1,5 @@
 ### Hi there 👋
+### <p align="center">My name is Lenar</p>
 
 <!--
 **lenaruch/lenaruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
