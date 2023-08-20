@@ -1,4 +1,4 @@
-### Hi there 👋
+### <p align="center">Hi there 👋</p>
 ### <p align="center">My name is Lenar</p>
 
 <!--
