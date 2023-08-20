@@ -11,7 +11,10 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=lenaruch&style=flat-square&color=blue" alt=""/>
+<a align="center">
+  <img src="https://komarev.com/ghpvc/?username=lenaruch&style=flat-square&color=blue" alt=""/>
+</a>
+
 
 <!--
 **lenaruch/lenaruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
