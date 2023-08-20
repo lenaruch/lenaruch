@@ -1,8 +1,13 @@
-<h3 align="center">Hi 👋! My name is Lenar and I'm a Python developer, from Russia.</h3>
+<h3 align="center">Hi 👋! My name is Lenar and I'm a Python developer, from Russia. </h3>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenaruch&layout=compact&theme=radical&line_height=21"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lenaruch&show_icons=true&theme=radical&hide_title=true&line_height=21"/>
+</div>
+###
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenaruch&show_icons=true&theme=radical&hide_title=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenaruch&layout=compact&theme=radical)](https://github.com/lenaruch/github-readme-stats)
+[![codewars](https://www.codewars.com/users/lenaruch/badges/large)](https://www.codewars.com/users/lenaruch)
 
 ###
 
