@@ -10,12 +10,9 @@
   <a href="https://t.me/lenaruch">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/lenaruch">
-    <img src="https://www.codewars.com/users/lenaruch/badges/micro"/>
-  </a>
-  
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lenaruch&style=flat-square&color=blue" alt=""/></p>
+<p align="center" href="https://www.codewars.com/users/lenaruch"> <img src="https://www.codewars.com/users/lenaruch/badges/micro"/></p>
 
 ### About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
