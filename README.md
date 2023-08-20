@@ -22,7 +22,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   
 - :books: Exploring Technical Content Writing.
   
-- :zap: In my free time, I solve tasks on CodeWars and read tech articles. [![codewars](https://www.codewars.com/users/lenaruch/badges/micro)](https://www.codewars.com/users/lenaruch) 
+- :zap: In my free time, I solve tasks on CodeWars and read tech articles.
   
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lenaruch)
 
