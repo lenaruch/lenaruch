@@ -24,7 +24,6 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   
 - :zap: In my free time, I solve tasks on CodeWars and read tech articles.
   
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lenaruch)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
