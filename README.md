@@ -16,8 +16,11 @@
 ### About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :eyes: I'm looking for a job as a Python developer.
+  
 - :books: Exploring Technical Content Writing.
+  
 - :zap: In my free time, I solve tasks on CodeWars and read tech articles.
+  
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lenaruch)
 
 
