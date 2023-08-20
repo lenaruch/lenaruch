@@ -13,7 +13,7 @@
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lenaruch&style=flat-square&color=blue" alt=""/></p>
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 
 <!--
