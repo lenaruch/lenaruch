@@ -10,6 +10,9 @@
   <a href="https://t.me/lenaruch">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a>
+    [![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/username)
+  </a>
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lenaruch&style=flat-square&color=blue" alt=""/></p>
 
