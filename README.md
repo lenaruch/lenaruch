@@ -16,8 +16,8 @@
 ### About Me :
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :eyes: I'm looking for a job as a Python developer.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :books: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on CodeWars and read tech articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 
