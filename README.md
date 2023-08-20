@@ -10,9 +10,6 @@
   <a href="https://t.me/lenaruch">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.codewars.com/users/lenaruch">
-    <img src="https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/lenaruch"/>
-  </a>
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lenaruch&style=flat-square&color=blue" alt=""/></p>
 
@@ -22,7 +19,7 @@ I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
   
 - :books: Exploring Technical Content Writing.
   
-- :zap: In my free time, I solve tasks on CodeWars and read tech articles.
+- :zap: In my free time, I solve tasks on CodeWars and read tech articles. [![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/lenaruch) 
   
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lenaruch)
 
