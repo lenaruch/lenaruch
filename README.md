@@ -34,7 +34,6 @@ _____________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  
   <img align="right" src="https://www.codewars.com/users/lenaruch/badges/large" height="30" alt="bash logo"  />
 </div>
 
