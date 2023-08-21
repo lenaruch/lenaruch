@@ -1,13 +1,20 @@
+###
+
 <h3 align="center">Hi 👋! My name is Lenar and I'm a Python developer, from Russia. </h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenaruch&layout=compact&theme=radical&line_height=21" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lenaruch&show_icons=true&theme=radical&hide_title=true&line_height=21" height="130"/>
-</div>
+<img align="right" height="220" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
 
 ###
+_____________________________
+### 💾 About me:
+* 🐍 I have been interesting in python for 1 years
+* ⚡ On my free time have been learning data processing pipelines, tools and SQL/NoSQL databases
+* 🖥️ I truly love to study new tools and tricks in programming
+
+###
+
 ### 🛠  Languages and Tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -33,24 +40,9 @@
 
 ###
 
-
-###
-
-<img align="right" height="220" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
-
-###
-_____________________________
-### 💾 About me:
-* 🐍 I have been interesting in python for 1 years
-* ⚡ On my free time have been learning data processing pipelines, tools and SQL/NoSQL databases
-* 🖥️ I truly love to study new tools and tricks in programming
-
-###
-
 <div align="center">
-  <a href="https://telegram.me/lenaruch" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" target="_blank" onclick ="https://telegram.me/lenaruch" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenaruch&layout=compact&theme=radical&line_height=21" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lenaruch&show_icons=true&theme=radical&hide_title=true&line_height=21" height="130"/>
 </div>
 
 ###
@@ -61,11 +53,7 @@ ____
 </div>
 
 ###
-Тут будет табличка с реализованными проектами
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+Тут будет табличка с реализованными проектами
+
+###
