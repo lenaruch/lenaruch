@@ -42,8 +42,8 @@ _____________________________
 _______________
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenaruch&layout=compact&theme=radical&line_height=21" height="180" weight="29%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=lenaruch&show_icons=true&theme=radical&hide_title=true&line_height=21" height="180" weight="69%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenaruch&layout=compact&theme=radical&line_height=21" height="180" weight="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lenaruch&show_icons=true&theme=radical&hide_title=true&line_height=21" height="180" weight="70%"/>
 </div>
 
 ###
