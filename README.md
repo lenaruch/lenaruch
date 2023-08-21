@@ -34,12 +34,12 @@ _____________________________
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  
   <img align="right" src="https://www.codewars.com/users/lenaruch/badges/large" height="30" alt="bash logo"  />
 </div>
 ###
-
-1
-1
+___
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenaruch&layout=compact&theme=radical&line_height=21" height="130 weight=30% " />
   <img src="https://github-readme-stats.vercel.app/api?username=lenaruch&show_icons=true&theme=radical&hide_title=true&line_height=21" height="130" weight=60%/>
