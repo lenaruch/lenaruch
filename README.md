@@ -55,8 +55,8 @@ ____
 
 ###
 
-<table>
-<tr><th>Название проекта</th><th>Описание проекта</th><th>Стек</th></tr>
+<table align="center">
+<tr><th align="center">Название проекта</th><th align="center">Описание проекта</th><th align="center">Стек</th></tr>
 <tr><td>данные</td><td>данные</td><td>данные</td></tr>
 <tr><td>данные</td><td>данные</td><td>данные</td></tr>
 </table>
