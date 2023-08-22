@@ -64,5 +64,76 @@ ____
 
 ###
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20min-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 195 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+🌆 Daytime                113 commits         ██████████░░░░░░░░░░░░░░░   41.09 % 
+🌃 Evening                106 commits         ██████████░░░░░░░░░░░░░░░   38.55 % 
+🌙 Night                  25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   63 commits          ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Wednesday                9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Thursday                 20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Friday                   28 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Saturday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Sunday                   101 commits         █████████░░░░░░░░░░░░░░░░   36.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             ███████████░░░░░░░░░░░░░░   44.44 % 
+Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C#                       2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/lenaruch/lenaruch/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/08/2023 10:13:25 UTC
 <!--END_SECTION:waka-->
 
