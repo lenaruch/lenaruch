@@ -12,6 +12,7 @@ _____________________________
 * 🐍 I have been interesting in python for 1 years
 * ⚡ On my free time have been learning data processing pipelines, tools and SQL/NoSQL databases
 * 🖥️ I truly love to study new tools and tricks in programming
+* 🖥️ I truly love to study new tools and tricks in programming
 
 ###
 
