@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="300" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
+<img align="right" height="250" src="https://github.com/lenaruch/lenaruch/blob/main/pic.gif"  />
 
 ###
 _____________________________
